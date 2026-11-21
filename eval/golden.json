@@ -1,0 +1,22 @@
+[
+ {"file": "sample_saas_agreement_A.pdf", "q": "How much notice is needed to stop the contract renewing?", "heading": "Term"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Does the agreement renew on its own?", "heading": "Term"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "What is the yearly price and when is it paid?", "heading": "Fees and Payment"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Is there interest on late payments?", "heading": "Fees and Payment"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Can I get a refund if I stop using the service?", "heading": "Fees and Payment"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "What does it cost to exit early?", "heading": "Termination"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Can the provider end the agreement whenever it wants?", "heading": "Termination"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "What is the maximum the provider can owe me if it fails?", "heading": "Limitation of Liability"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Is the customer's liability capped?", "heading": "Limitation of Liability"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Who must cover third-party claims?", "heading": "Indemnification"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "How long must secrets be kept after the contract ends?", "heading": "Confidentiality"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Who owns feedback and models I create with the tool?", "heading": "Intellectual Property"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Where would a dispute be decided?", "heading": "Governing Law and Disputes"},
+ {"file": "sample_saas_agreement_A.pdf", "q": "Can I join a class action against the provider?", "heading": "Governing Law and Disputes"},
+ {"file": "sample_saas_agreement_B.pdf", "q": "Can either side leave with 60 days notice?", "heading": "Termination"},
+ {"file": "sample_saas_agreement_B.pdf", "q": "Is there a cap on liability and what are the exceptions?", "heading": "Limitation of Liability"},
+ {"file": "sample_saas_agreement_B.pdf", "q": "Who protects me against patent or copyright infringement claims?", "heading": "Indemnification"},
+ {"file": "sample_saas_agreement_B.pdf", "q": "How is payment scheduled?", "heading": "Fees and Payment"},
+ {"file": "sample_saas_agreement_B.pdf", "q": "Which courts have jurisdiction?", "heading": "Governing Law and Disputes"},
+ {"file": "sample_saas_agreement_B.pdf", "q": "Who keeps rights to my data and outputs?", "heading": "Intellectual Property"}
+]
